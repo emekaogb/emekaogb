@@ -11,7 +11,7 @@ I'm a recent Computer Science & Psychology graduate from the University of Maryl
 
 ---
 
-## <img src="./icons/star.png" width="32"> What I'm Working On   
+## <img src="./icons/star.png" width="36"> What I'm Working On   
 
 - Learning AWS and cloud architecture
 - Building full-stack applications with React, Node.js, Express, and PostgreSQL
@@ -21,7 +21,7 @@ I'm a recent Computer Science & Psychology graduate from the University of Maryl
 
 ---
 
-## <img src="./icons/tree.png" width="30"> Tech Stack  
+## <img src="./icons/tree.png" width="35"> Tech Stack  
 
 ### **Languages**
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
