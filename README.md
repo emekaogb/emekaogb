@@ -5,13 +5,13 @@
 
 <br>
 
-## <img src="./icons/branch.png" width="24"> About Me  
+## <img src="./icons/branch.png" width="30"> About Me  
 
 I'm a recent Computer Science & Psychology graduate from the University of Maryland. I enjoy building full-stack applications, backend systems, and data-driven tools that solve practical problems. Currently learning more about cloud architecture, distributed systems, and scalable software design through AWS and personal projects. I'm interested in the intersection of technology and people through software engineering, data, and human-centered design.
 
 ---
 
-## <img src="./icons/star.png" width="24"> What I'm Working On   
+## <img src="./icons/star.png" width="32"> What I'm Working On   
 
 - Learning AWS and cloud architecture
 - Building full-stack applications with React, Node.js, Express, and PostgreSQL
@@ -21,7 +21,7 @@ I'm a recent Computer Science & Psychology graduate from the University of Maryl
 
 ---
 
-## <img src="./icons/tree.png" width="24"> Tech Stack  
+## <img src="./icons/tree.png" width="30"> Tech Stack  
 
 ### **Languages**
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
@@ -56,5 +56,5 @@ I'm a recent Computer Science & Psychology graduate from the University of Maryl
 
 ---
 
-## <img src="./icons/tree.png" width="24"> Let's Connect!  
+## <img src="./icons/shell.png" width="30"> Let's Connect!  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/emeka-ogbuachi) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:emeka.ogbuachi@gmail.com)
