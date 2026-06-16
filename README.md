@@ -11,7 +11,7 @@ I'm a recent Computer Science & Psychology graduate from the University of Maryl
 
 ---
 
-## <img src="./icons/star.png" width="36"> What I'm Working On   
+## <img src="./icons/star.png" width="40">What I'm Working On   
 
 - Learning AWS and cloud architecture
 - Building full-stack applications with React, Node.js, Express, and PostgreSQL
